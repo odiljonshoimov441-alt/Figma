@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7abab34a-8d75-4470-bff3-93d71cadd4ce" name="Changes" comment="" />
+    <list default="true" id="7abab34a-8d75-4470-bff3-93d71cadd4ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project2/img/Frame 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/img/Frame 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/img/Frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +34,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3L0B2fBLBqiH8oiQ5VY0u7QYBrv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,11 +46,12 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/ANUBIS/OneDrive/Рабочий стол/Figma/project/img",
+    "last_opened_file_path": "C:/Users/ANUBIS/OneDrive/Рабочий стол/Figma/project2/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -52,6 +64,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project2\img" />
       <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project\img" />
     </key>
   </component>
@@ -71,7 +84,12 @@
       <updated>1792580898695</updated>
       <workItem from="1792580899916" duration="5532000" />
       <workItem from="1792592766397" duration="6653000" />
-      <workItem from="1792600024546" duration="602000" />
+      <workItem from="1792600024546" duration="1020000" />
+      <workItem from="1792732036000" duration="36000" />
+      <workItem from="1792737660211" duration="534000" />
+      <workItem from="1792745674156" duration="209000" />
+      <workItem from="1792755431488" duration="320000" />
+      <workItem from="1792756198892" duration="4518000" />
     </task>
     <servers />
   </component>

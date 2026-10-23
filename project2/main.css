@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 1200px;
+}
+
+.div__box {
+    display: flex;
+    width: 1280px;
+    height: 100px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.div_box__one {
+    width: 416px;
+    height: 100px;
+    display: flex;
+    gap: 24px;
+    column-gap: 24px;
+
+}
+
+.div__box__one__h {
+    padding-top: 10px;
+    margin-bottom: 25px;
+    height: 32px;
+    width: 74px;
+}
+
+.div__box__one__p {
+    height: 48px;
+    width: 257px;
+}
+
+.div__box__second {
+    height: 603px;
+    width: 1280px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.druk__box {
+    display: flex;
+    width: 610px;
+    height: 403px;
+    margin-right:143px;
+    margin-left:100px;
+    justify-content: space-between;
+}
+.druk__box__img {
+    width:100px;
+    height:20px;
+    margin-bottom: 39px;
+    margin-top: 100px;
+}
+.texts__box {
+    width: 156px;
+    height: 51px;
+    margin-bottom:20px;
+}
+.text {
+    color: white;
+    width: 576px;
+    height: 192px;
+    font-size:40px;
+    line-height: 48px;
+    margin-bottom:41px;
+}
+.text2 {
+    color: white;
+    padding-left:30px
+}
+.text3 {
+    color: #ced2ff;
+}
+
+.Red__girl__box {
+    margin-left: 180px;
+}
+
