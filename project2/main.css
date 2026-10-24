@@ -43,6 +43,7 @@ body {
     width: 1280px;
     background-color: black;
     margin: 0 auto;
+    margin-bottom:100px;
 }
 
 .druk__box {
@@ -84,3 +85,39 @@ body {
     margin-left: 180px;
 }
 
+
+
+.h1 {
+
+    padding-left: 200px;
+    font-size:40px;
+    line-height: 48px;
+    font-weight: 700px;
+    margin-bottom: 25px;
+}
+.section__third__box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding-left: 100px;
+
+
+}
+.section__third__box__one {
+    height: 452px;
+    width: 416px;
+    border:1px solid #e6e7ff;
+    margin-bottom: 16px;
+}
+.section__fourth__box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding-left: 100px;
+}
+.section__fourth__box__one {
+    height: 452px;
+    width: 416px;
+    border:1px solid #e6e7ff;
+    margin-bottom: 16px;
+}
