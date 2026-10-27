@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7abab34a-8d75-4470-bff3-93d71cadd4ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project2/img/blankoIMG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/img/stars.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/project2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -61,6 +66,9 @@
       <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project2\img" />
       <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project\img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project2\img" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -85,7 +93,12 @@
       <workItem from="1792755431488" duration="320000" />
       <workItem from="1792756198892" duration="4606000" />
       <workItem from="1792760846069" duration="13000" />
-      <workItem from="1792829175147" duration="4033000" />
+      <workItem from="1792829175147" duration="7971000" />
+      <workItem from="1793012577641" duration="998000" />
+      <workItem from="1793106137388" duration="5009000" />
+      <workItem from="1793112545351" duration="1238000" />
+      <workItem from="1793113830389" duration="65000" />
+      <workItem from="1793113905960" duration="3335000" />
     </task>
     <servers />
   </component>
