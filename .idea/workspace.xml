@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7abab34a-8d75-4470-bff3-93d71cadd4ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project3/img/backfon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/img/sircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/project2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,7 +52,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANUBIS/OneDrive/Рабочий стол/Figma/project2/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANUBIS/OneDrive/Рабочий стол/Figma/project3/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
@@ -59,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project3\img" />
       <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project2\img" />
       <recent name="C:\Users\ANUBIS\OneDrive\Рабочий стол\Figma\project\img" />
     </key>
@@ -96,6 +103,8 @@
       <workItem from="1793113830389" duration="65000" />
       <workItem from="1793113905960" duration="3396000" />
       <workItem from="1793178461239" duration="567000" />
+      <workItem from="1793185584243" duration="5810000" />
+      <workItem from="1793275797174" duration="1100000" />
     </task>
     <servers />
   </component>
